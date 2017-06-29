@@ -104,11 +104,11 @@
 # de_BE ISO-8859-1
 # de_BE.UTF-8 UTF-8
 # de_BE@euro ISO-8859-15
-de_CH ISO-8859-1
-de_CH.UTF-8 UTF-8
-de_DE ISO-8859-1
-de_DE.UTF-8 UTF-8
-de_DE@euro ISO-8859-15
+# de_CH ISO-8859-1
+# de_CH.UTF-8 UTF-8
+# de_DE ISO-8859-1
+# de_DE.UTF-8 UTF-8
+# de_DE@euro ISO-8859-15
 # de_LI.UTF-8 UTF-8
 # de_LU ISO-8859-1
 # de_LU.UTF-8 UTF-8
@@ -220,11 +220,11 @@ en_US.UTF-8 UTF-8
 # fr_BE@euro ISO-8859-15
 # fr_CA ISO-8859-1
 # fr_CA.UTF-8 UTF-8
-fr_CH ISO-8859-1
-fr_CH.UTF-8 UTF-8
-fr_FR ISO-8859-1
-fr_FR.UTF-8 UTF-8
-fr_FR@euro ISO-8859-15
+# fr_CH ISO-8859-1
+# fr_CH.UTF-8 UTF-8
+# fr_FR ISO-8859-1
+# fr_FR.UTF-8 UTF-8
+# fr_FR@euro ISO-8859-15
 # fr_LU ISO-8859-1
 # fr_LU.UTF-8 UTF-8
 # fr_LU@euro ISO-8859-15
@@ -268,11 +268,11 @@ fr_FR@euro ISO-8859-15
 # ik_CA UTF-8
 # is_IS ISO-8859-1
 # is_IS.UTF-8 UTF-8
-it_CH ISO-8859-1
-it_CH.UTF-8 UTF-8
-it_IT ISO-8859-1
-it_IT.UTF-8 UTF-8
-it_IT@euro ISO-8859-15
+# it_CH ISO-8859-1
+# it_CH.UTF-8 UTF-8
+# it_IT ISO-8859-1
+# it_IT.UTF-8 UTF-8
+# it_IT@euro ISO-8859-15
 # iu_CA UTF-8
 # iw_IL ISO-8859-8
 # iw_IL.UTF-8 UTF-8
@@ -464,7 +464,7 @@ it_IT@euro ISO-8859-15
 # zh_CN GB2312
 # zh_CN.GB18030 GB18030
 # zh_CN.GBK GBK
-# zh_CN.UTF-8 UTF-8
+zh_CN.UTF-8 UTF-8
 # zh_HK BIG5-HKSCS
 # zh_HK.UTF-8 UTF-8
 # zh_SG GB2312
